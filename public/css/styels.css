@@ -1,0 +1,40 @@
+.layer1 {
+    margin-left: 25%;
+    /*margin-top: 5%; Отступ слева */
+}
+.layer2 {
+    margin-left: 20%;
+    margin-top: 5%; /*Отступ слева */
+}
+.layer3 {
+    margin-left: 25%;
+    margin-top: 2%;
+    /*margin-top: 5%; Отступ слева */
+}
+.layer4 {
+    margin-top: 12%;
+    margin-left: 25%;
+}
+.layer5_margin-top{
+    margin-top: 3%;
+}
+.big-text{ font-size: 20px; }
+.task{
+    margin-left: 25%;
+    font-size: 22px;
+}
+.text_my{
+    max-width:500px;
+}
+.layer6_margin-top{
+    margin-top: 3px;
+}
+troi_selector {
+}
+.charac{
+    text-align: right;
+    margin-right: -19%;
+}
+body {
+    background: url('public/css/воин3.png');
+    }
